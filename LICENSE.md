@@ -1,0 +1,2 @@
+The TMTM Weapons mod is released under the Arma Public License - Share Alike (APL-SA). Full details about the license can be found at the link below:
+https://www.bohemia.net/community/licenses/arma-public-license-share-alike

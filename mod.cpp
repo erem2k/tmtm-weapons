@@ -1,0 +1,14 @@
+name = "TMTM Weapons";
+picture = "tmtm_weapons_picture.paa";
+actionName = "Github";
+action = "https://github.com/erem2k/tmtm-weapons";
+description = "TMTM Weapons - Version 0.0.0";
+logoSmall = "tmtm_logo.paa";
+logo = "tmtm_weapons.paa";
+logoOver = "tmtm_weapons_over.paa";
+tooltip = "TMTM Weapons";
+tooltipOwned = "TMTM Weapons";
+overview = "A collection of weapons submods for TMTM";
+author = "TMTM";
+hideName = 0;
+hidePicture = 0;

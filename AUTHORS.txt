@@ -1,0 +1,7 @@
+# TMTM Weapons Contributor List
+Feel free to add yourself here when submitting pull request!
+
+## Core Team
+erem2k
+
+## Contributors
